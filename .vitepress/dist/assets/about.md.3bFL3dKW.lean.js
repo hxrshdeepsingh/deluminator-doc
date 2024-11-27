@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,V as i}from"./chunks/framework.fZt_wkQb.js";const f=JSON.parse('{"title":"What is Deluminator?","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"},l=i("",8),r=[l];function o(n,c,d,u,h,p){return t(),a("div",null,r)}const _=e(s,[["render",o]]);export{f as __pageData,_ as default};

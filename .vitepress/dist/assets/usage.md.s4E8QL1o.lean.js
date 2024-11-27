@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,V as a}from"./chunks/framework.fZt_wkQb.js";const g=JSON.parse('{"title":"How to use?","description":"","frontmatter":{},"headers":[],"relativePath":"usage.md","filePath":"usage.md"}'),s={name:"usage.md"},i=a("",17),n=[i];function r(l,c,d,h,p,u){return o(),t("div",null,n)}const v=e(s,[["render",r]]);export{g as __pageData,v as default};
